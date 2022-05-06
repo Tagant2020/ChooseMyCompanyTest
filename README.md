@@ -35,3 +35,4 @@ Si vous aviez plus de temps :
 Quelles seraient les évolutions que vous proposeriez pour améliorer ce code (découpage, optimisations, sécurisation...) ?
 
 :warning: Le but de ce test est de vérifier votre capacité à organiser le code (pas seulement à le faire marcher).
+"# ChooseMyCompanyTest" 
